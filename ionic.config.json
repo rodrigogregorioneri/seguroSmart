@@ -1,0 +1,8 @@
+{
+  "name": "seguroSmart",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
